@@ -1,0 +1,3 @@
+Jogo { ID = 1, Nome = Overwatch, Preco = 65.0 }
+Jogo { ID = 2, Nome = Minecraft, Preco = 120.0 }
+Jogo { ID = 3, Nome = Sea of Thieves, Preco = 250.0 }
