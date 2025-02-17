@@ -1,0 +1,4 @@
+Livro: { ID = 1, Titulo = O Senhor dos Aneis, Autor = J. R. R. Tolkien, Paginas = 1000 }
+Livro: { ID = 2, Titulo = Harry Potter, Autor = J. K. Rowling, Paginas = 500 }
+Livro: { ID = 3, Titulo = Game of Thrones, Autor = George R. R. Martin, Paginas = 800 }
+Livro: { ID = 4, Titulo = Percy Jackson, Autor = Rick Riordan, Paginas = 300 }
